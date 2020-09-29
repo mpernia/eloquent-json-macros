@@ -1,5 +1,5 @@
 {
-    "name": "aidynmakhataev/eloquent-json-macros",
+    "name": "mpernia/eloquent-json-macros",
     "description": "A Laravel Eloquent Builder macros for MySQL JSON functions",
     "license": "MIT",
     "authors": [{
